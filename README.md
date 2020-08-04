@@ -4,7 +4,7 @@
 Gosto muito da área de programação e design!
 Sou FullStack Developer :computer:
 
- :books:  &nbsp; Sou estudante da **UFRN** e faço **Tecnologia da Informação** e Técnica em Informática pelo **IFRN.**
+ :books:  &nbsp; Sou estudante da **UFRN** e faço **Tecnologia da Informação** e sou Técnica em Informática pelo **IFRN.**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
